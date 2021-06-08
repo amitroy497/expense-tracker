@@ -1,0 +1,16 @@
+.balance-wrapper {
+  border: 1px solid #000;
+  padding: 20px;
+}
+title {
+  display: block;
+  font-size: 25px;
+}
+input {
+  display: block;
+  margin: 10px auto;
+}
+button {
+  margin: 0 8px;
+  cursor: pointer;
+}
